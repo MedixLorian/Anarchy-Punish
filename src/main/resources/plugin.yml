@@ -1,0 +1,8 @@
+name: PunishPlugin
+author: MedixLorian
+version: 1.0
+main: org.hello.punishplugin.PunishPlugin
+commands:
+  punish:
+    description: Punish a player with specified effects.
+    usage: /punish <player> <effectCode> <hours>
